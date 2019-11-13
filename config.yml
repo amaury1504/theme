@@ -1,0 +1,6 @@
+development:
+  password: b285597deb0c4baa442c9300de6128c2
+  theme_id: "79349055570"
+  store: amauryco.myshopify.com
+ignore_files:
+  - config/settings_data.json
